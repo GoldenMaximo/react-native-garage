@@ -1,0 +1,319 @@
+{
+  "items": [
+    {
+      "id": "155fa5ae-00a0-11ea-84e3-4371baa68b28",
+      "model": "RS7 4.0",
+      "make": "Audi",
+      "year": 2015,
+      "image": {
+        "url": "http:/172.18.77.145:3000/assets/vehicle_image-155fa5ae-00a0-11ea-84e3-4371baa68b28.jpg"
+      }
+    },
+    {
+      "id": "206b3cd8-00a0-11ea-a1de-278776d54145",
+      "model": "A6 50",
+      "make": "Audi",
+      "year": 2013,
+      "image": {
+        "url": "http:/172.18.77.145:3000/assets/vehicle_image-206b3cd8-00a0-11ea-a1de-278776d54145.jpg"
+      }
+    },
+    {
+      "id": "2b301b3e-00a0-11ea-a1df-d319b5694f62",
+      "model": "G-klasse 300",
+      "make": "Mercedes",
+      "year": 2011,
+      "image": {
+        "url": "http:/172.18.77.145:3000/assets/vehicle_image-2b301b3e-00a0-11ea-a1df-d319b5694f62.jpg"
+      }
+    },
+    {
+      "id": "329ca892-00a0-11ea-a1e0-87df99c1daef",
+      "model": "EB Veyron 16.4 SS",
+      "make": "Bugatti",
+      "year": 2015,
+      "image": {
+        "url": "http:/172.18.77.145:3000/assets/vehicle_image-329ca892-00a0-11ea-a1e0-87df99c1daef.jpg"
+      }
+    },
+    {
+      "id": "3e33a386-00a0-11ea-a1e1-33fd4292aab9",
+      "model": "911 GT3 RS",
+      "make": "Porsche",
+      "year": 2019,
+      "image": {
+        "url": "http:/172.18.77.145:3000/assets/vehicle_image-3e33a386-00a0-11ea-a1e1-33fd4292aab9.jpg"
+      }
+    },
+    {
+      "id": "46a17a48-00a0-11ea-a1e2-f7e8d4c242d7",
+      "model": "959 2.9",
+      "make": "Porsche",
+      "year": 2015,
+      "image": {
+        "url": "http:/172.18.77.145:3000/assets/vehicle_image-46a17a48-00a0-11ea-a1e2-f7e8d4c242d7.jpg"
+      }
+    },
+    {
+      "model": "Montero Sport",
+      "make": "Mitsubishi",
+      "year": 1998,
+      "image": null
+    },
+    {
+      "id": "dc0e179c-ec34-11e9-9a17-2b1a8ae7aa78",
+      "model": "Q2 Sport Tfsi",
+      "make": "Audi",
+      "year": 2017,
+      "image": {
+        "url": "http:/172.18.77.145:3000/assets/vehicle_image-dc0e179c-ec34-11e9-9a17-2b1a8ae7aa78.jpg"
+      }
+    },
+    {
+      "id": "5e87ec18-d469-11e9-a665-876511f53dc2",
+      "model": "S63",
+      "make": "Mercedes",
+      "year": 2019,
+      "image": {
+        "url": "http:/172.18.77.145:3000/assets/vehicle_image-5e87ec18-d469-11e9-a665-876511f53dc2.jpg"
+      }
+    },
+    {
+      "id": "dd23c210-cafd-11e9-96b5-4b562b719823",
+      "model": "E-type 3.8",
+      "make": "Mercedes",
+      "year": 1961,
+      "image": {
+        "url": "http:/172.18.77.145:3000/assets/vehicle_image-dd23c210-cafd-11e9-96b5-4b562b719823.jpg"
+      }
+    },
+    {
+      "id": "b8ee783a-c8ce-11e9-8654-1fdda1b36688",
+      "model": "Cougar R-Code",
+      "make": "Cougar",
+      "year": 1968,
+      "image": {
+        "url": "http:/172.18.77.145:3000/assets/vehicle_image-b8ee783a-c8ce-11e9-8654-1fdda1b36688.jpg"
+      }
+    },
+    {
+      "id": "590679fe-c8ce-11e9-a7fd-d784ecefb016",
+      "model": "190 SL 1.9",
+      "make": "Mercedes",
+      "year": 1955,
+      "image": {
+        "url": "http:/172.18.77.145:3000/assets/vehicle_image-590679fe-c8ce-11e9-a7fd-d784ecefb016.jpg"
+      }
+    },
+    {
+      "id": "155fa5ae-00a0-11ea-84e3-4371baa68b28",
+      "model": "RS7 4.0",
+      "make": "Audi",
+      "year": 2015,
+      "image": {
+        "url": "http:/172.18.77.145:3000/assets/vehicle_image-155fa5ae-00a0-11ea-84e3-4371baa68b28.jpg"
+      }
+    },
+    {
+      "id": "206b3cd8-00a0-11ea-a1de-278776d54145",
+      "model": "A6 50",
+      "make": "Audi",
+      "year": 2013,
+      "image": {
+        "url": "http:/172.18.77.145:3000/assets/vehicle_image-206b3cd8-00a0-11ea-a1de-278776d54145.jpg"
+      }
+    },
+    {
+      "id": "2b301b3e-00a0-11ea-a1df-d319b5694f62",
+      "model": "G-klasse 300",
+      "make": "Mercedes",
+      "year": 2011,
+      "image": {
+        "url": "http:/172.18.77.145:3000/assets/vehicle_image-2b301b3e-00a0-11ea-a1df-d319b5694f62.jpg"
+      }
+    },
+    {
+      "id": "329ca892-00a0-11ea-a1e0-87df99c1daef",
+      "model": "EB Veyron 16.4 SS",
+      "make": "Bugatti",
+      "year": 2015,
+      "image": {
+        "url": "http:/172.18.77.145:3000/assets/vehicle_image-329ca892-00a0-11ea-a1e0-87df99c1daef.jpg"
+      }
+    },
+    {
+      "id": "3e33a386-00a0-11ea-a1e1-33fd4292aab9",
+      "model": "911 GT3 RS",
+      "make": "Porsche",
+      "year": 2019,
+      "image": {
+        "url": "http:/172.18.77.145:3000/assets/vehicle_image-3e33a386-00a0-11ea-a1e1-33fd4292aab9.jpg"
+      }
+    },
+    {
+      "id": "46a17a48-00a0-11ea-a1e2-f7e8d4c242d7",
+      "model": "959 2.9",
+      "make": "Porsche",
+      "year": 2015,
+      "image": {
+        "url": "http:/172.18.77.145:3000/assets/vehicle_image-46a17a48-00a0-11ea-a1e2-f7e8d4c242d7.jpg"
+      }
+    },
+    {
+      "model": "Montero Sport",
+      "make": "Mitsubishi",
+      "year": 1998,
+      "image": null
+    },
+    {
+      "id": "dc0e179c-ec34-11e9-9a17-2b1a8ae7aa78",
+      "model": "Q2 Sport Tfsi",
+      "make": "Audi",
+      "year": 2017,
+      "image": {
+        "url": "http:/172.18.77.145:3000/assets/vehicle_image-dc0e179c-ec34-11e9-9a17-2b1a8ae7aa78.jpg"
+      }
+    },
+    {
+      "id": "5e87ec18-d469-11e9-a665-876511f53dc2",
+      "model": "S63",
+      "make": "Mercedes",
+      "year": 2019,
+      "image": {
+        "url": "http:/172.18.77.145:3000/assets/vehicle_image-5e87ec18-d469-11e9-a665-876511f53dc2.jpg"
+      }
+    },
+    {
+      "id": "dd23c210-cafd-11e9-96b5-4b562b719823",
+      "model": "E-type 3.8",
+      "make": "Mercedes",
+      "year": 1961,
+      "image": {
+        "url": "http:/172.18.77.145:3000/assets/vehicle_image-dd23c210-cafd-11e9-96b5-4b562b719823.jpg"
+      }
+    },
+    {
+      "id": "b8ee783a-c8ce-11e9-8654-1fdda1b36688",
+      "model": "Cougar R-Code",
+      "make": "Cougar",
+      "year": 1968,
+      "image": {
+        "url": "http:/172.18.77.145:3000/assets/vehicle_image-b8ee783a-c8ce-11e9-8654-1fdda1b36688.jpg"
+      }
+    },
+    {
+      "id": "590679fe-c8ce-11e9-a7fd-d784ecefb016",
+      "model": "190 SL 1.9",
+      "make": "Mercedes",
+      "year": 1955,
+      "image": {
+        "url": "http:/172.18.77.145:3000/assets/vehicle_image-590679fe-c8ce-11e9-a7fd-d784ecefb016.jpg"
+      }
+    },
+    {
+      "id": "155fa5ae-00a0-11ea-84e3-4371baa68b28",
+      "model": "RS7 4.0",
+      "make": "Audi",
+      "year": 2015,
+      "image": {
+        "url": "http:/172.18.77.145:3000/assets/vehicle_image-155fa5ae-00a0-11ea-84e3-4371baa68b28.jpg"
+      }
+    },
+    {
+      "id": "206b3cd8-00a0-11ea-a1de-278776d54145",
+      "model": "A6 50",
+      "make": "Audi",
+      "year": 2013,
+      "image": {
+        "url": "http:/172.18.77.145:3000/assets/vehicle_image-206b3cd8-00a0-11ea-a1de-278776d54145.jpg"
+      }
+    },
+    {
+      "id": "2b301b3e-00a0-11ea-a1df-d319b5694f62",
+      "model": "G-klasse 300",
+      "make": "Mercedes",
+      "year": 2011,
+      "image": {
+        "url": "http:/172.18.77.145:3000/assets/vehicle_image-2b301b3e-00a0-11ea-a1df-d319b5694f62.jpg"
+      }
+    },
+    {
+      "id": "329ca892-00a0-11ea-a1e0-87df99c1daef",
+      "model": "EB Veyron 16.4 SS",
+      "make": "Bugatti",
+      "year": 2015,
+      "image": {
+        "url": "http:/172.18.77.145:3000/assets/vehicle_image-329ca892-00a0-11ea-a1e0-87df99c1daef.jpg"
+      }
+    },
+    {
+      "id": "3e33a386-00a0-11ea-a1e1-33fd4292aab9",
+      "model": "911 GT3 RS",
+      "make": "Porsche",
+      "year": 2019,
+      "image": {
+        "url": "http:/172.18.77.145:3000/assets/vehicle_image-3e33a386-00a0-11ea-a1e1-33fd4292aab9.jpg"
+      }
+    },
+    {
+      "id": "46a17a48-00a0-11ea-a1e2-f7e8d4c242d7",
+      "model": "959 2.9",
+      "make": "Porsche",
+      "year": 2015,
+      "image": {
+        "url": "http:/172.18.77.145:3000/assets/vehicle_image-46a17a48-00a0-11ea-a1e2-f7e8d4c242d7.jpg"
+      }
+    },
+    {
+      "model": "Montero Sport",
+      "make": "Mitsubishi",
+      "year": 1998,
+      "image": null
+    },
+    {
+      "id": "dc0e179c-ec34-11e9-9a17-2b1a8ae7aa78",
+      "model": "Q2 Sport Tfsi",
+      "make": "Audi",
+      "year": 2017,
+      "image": {
+        "url": "http:/172.18.77.145:3000/assets/vehicle_image-dc0e179c-ec34-11e9-9a17-2b1a8ae7aa78.jpg"
+      }
+    },
+    {
+      "id": "5e87ec18-d469-11e9-a665-876511f53dc2",
+      "model": "S63",
+      "make": "Mercedes",
+      "year": 2019,
+      "image": {
+        "url": "http:/172.18.77.145:3000/assets/vehicle_image-5e87ec18-d469-11e9-a665-876511f53dc2.jpg"
+      }
+    },
+    {
+      "id": "dd23c210-cafd-11e9-96b5-4b562b719823",
+      "model": "E-type 3.8",
+      "make": "Mercedes",
+      "year": 1961,
+      "image": {
+        "url": "http:/172.18.77.145:3000/assets/vehicle_image-dd23c210-cafd-11e9-96b5-4b562b719823.jpg"
+      }
+    },
+    {
+      "id": "b8ee783a-c8ce-11e9-8654-1fdda1b36688",
+      "model": "Cougar R-Code",
+      "make": "Cougar",
+      "year": 1968,
+      "image": {
+        "url": "http:/172.18.77.145:3000/assets/vehicle_image-b8ee783a-c8ce-11e9-8654-1fdda1b36688.jpg"
+      }
+    },
+    {
+      "id": "590679fe-c8ce-11e9-a7fd-d784ecefb016",
+      "model": "190 SL 1.9",
+      "make": "Mercedes",
+      "year": 1955,
+      "image": {
+        "url": "http:/172.18.77.145:3000/assets/vehicle_image-590679fe-c8ce-11e9-a7fd-d784ecefb016.jpg"
+      }
+    }
+  ]
+}
